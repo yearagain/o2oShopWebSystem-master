@@ -20,12 +20,17 @@ If you want to use for reference it, please wait for an update that is a long pr
 
 图片上传路径配置：com.yearagain.o2o.util.PathUtil 
 
+水印图片路径：src/main(test)/resources/watermark.jpg 
+
+水印采用开源可商用字体：https://github.com/ButTaiwan/genryu-font
+
 # 更新日志
 
 
 
 | 时间                   | 备注                                                  |
 | ---------------------- | ----------------------------------------------------- |
+| 2020年3月2日 20:38:22  | 更新水印图片 近期最后一次更新                         |
 | 2020年3月1日 03:30:01  | 准备使用git管理项目                                   |
 | 2020年3月1日 03:12:18  | 完成添加店铺的前端，对已有模块进行功能测试完毕        |
 | 2020年2月28日 20:15:20 | 完成添加店铺Dao，Service，Controller层的编码          |
